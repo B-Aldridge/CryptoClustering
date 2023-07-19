@@ -1,6 +1,6 @@
 # CryptoClustering
 
-In this challenge, the aim is to cluster cryptocurrencies using the K-means algorithm and explore the impact of feature reduction using Principal Component Analysis (PCA). Unsupervised machine learning was used to predict whether cryptocurrencies are affected by 24-hour or 7-day price change. 
+In this challenge, the aim is to cluster cryptocurrencies using the K-means algorithm and explore the impact of feature reduction using Principal Component Analysis (PCA). Unsupervised machine learning was used to predict whether cryptocurrencies are affected by 24-hour or 7-day price change. Starter code was provided by the Bootcamp.
 
 ## Prepare the Data
 To start, data was normailized from the CSV file using the StandardScaler module from scikit-learn.
